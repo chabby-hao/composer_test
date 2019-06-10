@@ -1,3 +1,7 @@
 <?php
 
-echo 'lalala';
+namespace  t;
+class ttt{
+
+
+}
