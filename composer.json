@@ -1,0 +1,7 @@
+{
+  "name": "chabby-hao/test-name",
+  "description": "test descrpition",
+  "require": {
+    "php": "^5.6",
+  }
+}
