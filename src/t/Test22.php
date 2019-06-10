@@ -1,7 +1,7 @@
 <?php
 
 namespace  t;
-class ttt{
+class Test22{
 
 
 }
