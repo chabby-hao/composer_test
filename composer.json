@@ -2,6 +2,6 @@
   "name": "chabby-hao/test-name",
   "description": "test descrpition",
   "require": {
-    "php": "^5.6",
+    "php": "^5.6"
   }
 }
